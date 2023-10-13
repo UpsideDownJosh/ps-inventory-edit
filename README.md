@@ -84,12 +84,12 @@ Runs at ~ 0.00 to 0.01 ms if you have more optimization suggestions feel free to
 
 # Credits
 Me myself and i :D
-upsid3downjosh
+
 # Issues and Suggestions
 
 Please use the GitHub issues system to report issues or make suggestions, when making suggestions, please keep [Suggestion] in the title to make it clear that it is a suggestion.
 ## My Discord
-
+upsid3downjosh
 ## Connect with Project Sloth
 
 Join our [**Discord**](https://discord.gg/projectsloth) for updates, support, and special early testing!
