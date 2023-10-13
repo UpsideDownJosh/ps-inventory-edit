@@ -1,7 +1,6 @@
 # # PS-Inventory-Edit
-Removed 6 Slot + Css edit
 
-lj-Inventory has been fully redesigned by [OK1ez](https://github.com/OK1ez), under the name ps-inventory.
+# Removed 6 Slot + Css edit
 
 Future updates will be coming and we will of course support all normal monitor sizes.
 
@@ -13,23 +12,8 @@ Future updates will be coming and we will of course support all normal monitor s
 
 ### Full Inventory
 
-![image](https://github.com/Project-Sloth/ps-inventory/assets/82112471/fda2588d-e468-4fd5-8bf5-2f584f059609)
+![image](https://cdn.discordapp.com/attachments/1075171952848801833/1162383086047219772/image.png?ex=653bbc9b&is=6529479b&hm=43be9a75a85d639a88f51c073203f164af84f892d1795fcecd4735142f49b5ee&)
 
-### Options Menu
-
-![image](https://github.com/Project-Sloth/ps-inventory/assets/82112471/1782f97a-27e6-441b-90a1-ff150cd846e2)
-
-### Hotbar Slots
-
-![image](https://github.com/Project-Sloth/ps-inventory/assets/82112471/c0a77f4a-f482-42f5-a5da-1f3571d14130)
-
-### Inventory Glovebox
-
-![image](https://github.com/Project-Sloth/ps-inventory/assets/82112471/432f8c79-1a9f-44d1-8062-50b596194752)
-
-### Inventory Trunk
-
-![image](https://github.com/Project-Sloth/ps-inventory/assets/82112471/f9c78e49-ec51-4d55-9ac0-b7058951d31a)
 
 # Key Features
 
@@ -100,10 +84,11 @@ Runs at ~ 0.00 to 0.01 ms if you have more optimization suggestions feel free to
 
 # Credits
 Me myself and i :D
-
+upsid3downjosh
 # Issues and Suggestions
 
 Please use the GitHub issues system to report issues or make suggestions, when making suggestions, please keep [Suggestion] in the title to make it clear that it is a suggestion.
+## My Discord
 
 ## Connect with Project Sloth
 
