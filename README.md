@@ -2,7 +2,7 @@
 
 # Removed 6 Slot + Css edit
 
-Future updates will be coming and we will of course support all normal monitor sizes.
+Removed Locked 6th slot
 
 # Previews
 
